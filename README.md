@@ -4,6 +4,14 @@ A simple full-stack inventory management app built as part of my internship assi
 
 Built with React on the frontend and a Node/Express + MongoDB backend.
 
+## Screenshots
+
+### Dashboard Overview
+![Dashboard](./screenshots/Dashboard.png)
+
+### Add Product Modal
+![Add Product Modal](./screenshots/add%20product.png)
+
 ## Tech Stack
 
 **Frontend:** React (Vite), Axios
